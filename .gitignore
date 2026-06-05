@@ -1,0 +1,9 @@
+venv_incendios/ 
+__pycache__/ 
+*.pyc 
+outputs/ 
+venv_incendios/ 
+datos/*.zip 
+brazo_a_mlops/*.pth 
+brazo_b_solo_genai/*.pth 
+mlruns/ 
