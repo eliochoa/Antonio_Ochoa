@@ -1,0 +1,11 @@
+Métrica / Capacidad,Brazo A (Con MLOps),Brazo B (Sin MLOps)
+MAE,3.9171,3.9171
+RMSE,6.4474,6.4474
+R²,-0.0031,-0.0031
+Tiempo entrenamiento (s),7.73,9.8
+Tiempo total (s),9.18,11.3
+Reproducible,SÍ,NO
+Versionado de datos,SÍ,NO
+Registro de experimentos,SÍ,NO
+Monitoreo de drift,SÍ,NO
+API de inferencia,SÍ,NO
