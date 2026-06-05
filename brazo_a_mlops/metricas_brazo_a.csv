@@ -1,0 +1,2 @@
+MAE,RMSE,R2,latencia_ms,t_entrenamiento,t_total,con_mlops,reproducible,monitoreo_drift
+3.9171,6.4474,-0.0031,4.01,7.73,9.18,True,True,True
