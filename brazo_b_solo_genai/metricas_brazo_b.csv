@@ -1,0 +1,2 @@
+MAE,RMSE,R2,t_entrenamiento,t_total,epochs,sin_mlops
+3.9171,6.4474,-0.0031,9.8,11.3,50,True
